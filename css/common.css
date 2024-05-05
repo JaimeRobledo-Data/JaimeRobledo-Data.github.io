@@ -1,0 +1,250 @@
+
+/* phone */
+.wb-stl-list1 { font: normal normal 8px 'Cormorant Garamond',Arial,serif; font-size: 8px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 8px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+.wb-stl-list1 a { font: normal normal 8px 'Cormorant Garamond',Arial,serif; font-size: 8px; font-style: normal; font-weight: normal; color: transparent; text-decoration: none; text-align: center; line-height: 8px; }
+.wb-stl-list1 a:hover { font: normal normal 8px 'Cormorant Garamond',Arial,serif; font-size: 8px; font-style: normal; font-weight: normal; color: transparent; text-decoration: none; text-align: center; line-height: 8px; }
+ul.wb-stl-list1 ul:not([class]), ul.wb-stl-list1 ol:not([class]), ol.wb-stl-list1 ul:not([class]), ol.wb-stl-list1 ol:not([class]) { font: normal normal 8px 'Cormorant Garamond',Arial,serif; font-size: 8px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 8px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+ul.wb-stl-list1 :not([class]) > li, ol.wb-stl-list1 :not([class]) > li { font: normal normal 8px 'Cormorant Garamond',Arial,serif; font-size: 8px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 8px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+ul.wb-stl-list1 li::before, ol.wb-stl-list1 li::before { display: none; }
+.wb-stl-list2 { font: normal normal 10px 'Open Sans',Arial,sans-serif; font-size: 10px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 11px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+.wb-stl-list2 a { font: normal normal 10px 'Open Sans',Arial,sans-serif; font-size: 10px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 11px; }
+.wb-stl-list2 a:hover { font: normal normal 10px 'Open Sans',Arial,sans-serif; font-size: 10px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 11px; }
+ul.wb-stl-list2 ul:not([class]), ul.wb-stl-list2 ol:not([class]), ol.wb-stl-list2 ul:not([class]), ol.wb-stl-list2 ol:not([class]) { font: normal normal 10px 'Open Sans',Arial,sans-serif; font-size: 10px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 11px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+ul.wb-stl-list2 :not([class]) > li, ol.wb-stl-list2 :not([class]) > li { font: normal normal 10px 'Open Sans',Arial,sans-serif; font-size: 10px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 11px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+ul.wb-stl-list2 li::before, ol.wb-stl-list2 li::before { display: none; }
+.wb-stl-list3 { font: normal normal 12px 'Open Sans',Arial,sans-serif; font-size: 12px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 14px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+.wb-stl-list3 a { font: normal normal 12px 'Open Sans',Arial,sans-serif; font-size: 12px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 14px; }
+.wb-stl-list3 a:hover { font: normal normal 12px 'Open Sans',Arial,sans-serif; font-size: 12px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 14px; }
+ul.wb-stl-list3 ul:not([class]), ul.wb-stl-list3 ol:not([class]), ol.wb-stl-list3 ul:not([class]), ol.wb-stl-list3 ol:not([class]) { font: normal normal 12px 'Open Sans',Arial,sans-serif; font-size: 12px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 14px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+ul.wb-stl-list3 :not([class]) > li, ol.wb-stl-list3 :not([class]) > li { font: normal normal 12px 'Open Sans',Arial,sans-serif; font-size: 12px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 14px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+ul.wb-stl-list3 li::before, ol.wb-stl-list3 li::before { display: none; }
+.wb-stl-highlight { font: normal normal 24px Arial,Helvetica,sans-serif; font-size: 24px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 28px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-highlight a { font: normal normal 24px Arial,Helvetica,sans-serif; font-size: 24px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 28px; }
+.wb-stl-highlight a:hover { font: normal normal 24px Arial,Helvetica,sans-serif; font-size: 24px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 28px; }
+.wb-stl-special { font: normal normal 24px 'Capture it'; font-size: 24px; font-style: normal; font-weight: normal; color: #FFFB00; text-decoration: none; text-align: left; line-height: 28px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-special a { font: normal normal 24px 'Capture it'; font-size: 24px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 28px; }
+.wb-stl-special a:hover { font: normal normal 24px 'Capture it'; font-size: 24px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 28px; }
+.wb-stl-normal { font: normal normal 22px 'Roboto',Arial,sans-serif; font-size: 22px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 34px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-normal a { font: normal normal 22px 'Roboto',Arial,sans-serif; font-size: 22px; font-style: normal; font-weight: bold; color: #EF9C9C; text-decoration: none; text-align: left; line-height: 34px; }
+.wb-stl-normal a:hover { font: normal normal 22px 'Roboto',Arial,sans-serif; font-size: 22px; font-style: normal; font-weight: bold; color: #DB4B4B; text-decoration: none; text-align: left; line-height: 34px; }
+.wb-stl-pagetitle { font: normal bold 26px 'Roboto',Arial,sans-serif; font-size: 26px; font-style: normal; font-weight: bold; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 32px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-pagetitle a { font: normal bold 26px 'Roboto',Arial,sans-serif; font-size: 26px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 32px; }
+.wb-stl-pagetitle a:hover { font: normal bold 26px 'Roboto',Arial,sans-serif; font-size: 26px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 32px; }
+.wb-stl-subtitle { font: normal normal 32px 'Open Sans',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 32px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-subtitle a { font: normal normal 32px 'Open Sans',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 32px; }
+.wb-stl-subtitle a:hover { font: normal normal 32px 'Open Sans',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 32px; }
+.wb-stl-heading1 { font: normal bold 78px 'Cormorant Garamond',Arial,serif; font-size: 78px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 78px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-heading1 a { font: normal bold 78px 'Cormorant Garamond',Arial,serif; font-size: 78px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 78px; }
+.wb-stl-heading1 a:hover { font: normal bold 78px 'Cormorant Garamond',Arial,serif; font-size: 78px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 78px; }
+.wb-stl-heading2 { font: normal bold 35px 'Cormorant Garamond',Arial,serif; font-size: 35px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 35px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-heading2 a { font: normal bold 35px 'Cormorant Garamond',Arial,serif; font-size: 35px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 35px; }
+.wb-stl-heading2 a:hover { font: normal bold 35px 'Cormorant Garamond',Arial,serif; font-size: 35px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 35px; }
+.wb-stl-heading3 { font: normal bold 24px 'Cormorant Garamond',Arial,serif; font-size: 24px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 24px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-heading3 a { font: normal bold 24px 'Cormorant Garamond',Arial,serif; font-size: 24px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+.wb-stl-heading3 a:hover { font: normal bold 24px 'Cormorant Garamond',Arial,serif; font-size: 24px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+.wb-stl-footer { font: normal normal 16px 'Roboto',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-footer a { font: normal normal 16px 'Roboto',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+.wb-stl-footer a:hover { font: normal normal 16px 'Roboto',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+ul.wb-stl-list1 > li, ol.wb-stl-list1 > li { font: normal normal 8px 'Cormorant Garamond',Arial,serif; font-size: 8px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 8px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+ul.wb-stl-list1 > li::before, ol.wb-stl-list1 > li::before { display: none; }
+ul.wb-stl-list2 > li, ol.wb-stl-list2 > li { font: normal normal 10px 'Open Sans',Arial,sans-serif; font-size: 10px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 11px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+ul.wb-stl-list2 > li::before, ol.wb-stl-list2 > li::before { display: none; }
+ul.wb-stl-list3 > li, ol.wb-stl-list3 > li { font: normal normal 12px 'Open Sans',Arial,sans-serif; font-size: 12px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 14px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+ul.wb-stl-list3 > li::before, ol.wb-stl-list3 > li::before { display: none; }
+
+
+/* tablet */
+@media (min-width: 768px) {
+	.wb-stl-list1 { font: normal normal 10px 'Cormorant Garamond',Arial,serif; font-size: 10px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 11px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	.wb-stl-list1 a { font: normal normal 10px 'Cormorant Garamond',Arial,serif; font-size: 10px; font-style: normal; font-weight: normal; color: transparent; text-decoration: none; text-align: center; line-height: 11px; }
+	.wb-stl-list1 a:hover { font: normal normal 10px 'Cormorant Garamond',Arial,serif; font-size: 10px; font-style: normal; font-weight: normal; color: transparent; text-decoration: none; text-align: center; line-height: 11px; }
+	ul.wb-stl-list1 ul:not([class]), ul.wb-stl-list1 ol:not([class]), ol.wb-stl-list1 ul:not([class]), ol.wb-stl-list1 ol:not([class]) { font: normal normal 10px 'Cormorant Garamond',Arial,serif; font-size: 10px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 11px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	ul.wb-stl-list1 :not([class]) > li, ol.wb-stl-list1 :not([class]) > li { font: normal normal 10px 'Cormorant Garamond',Arial,serif; font-size: 10px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 11px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list1 li::before, ol.wb-stl-list1 li::before { display: none; }
+	.wb-stl-list2 { font: normal normal 13px 'Open Sans',Arial,sans-serif; font-size: 13px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 14px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	.wb-stl-list2 a { font: normal normal 13px 'Open Sans',Arial,sans-serif; font-size: 13px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 14px; }
+	.wb-stl-list2 a:hover { font: normal normal 13px 'Open Sans',Arial,sans-serif; font-size: 13px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 14px; }
+	ul.wb-stl-list2 ul:not([class]), ul.wb-stl-list2 ol:not([class]), ol.wb-stl-list2 ul:not([class]), ol.wb-stl-list2 ol:not([class]) { font: normal normal 13px 'Open Sans',Arial,sans-serif; font-size: 13px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 14px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	ul.wb-stl-list2 :not([class]) > li, ol.wb-stl-list2 :not([class]) > li { font: normal normal 13px 'Open Sans',Arial,sans-serif; font-size: 13px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 14px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list2 li::before, ol.wb-stl-list2 li::before { display: none; }
+	.wb-stl-list3 { font: normal normal 16px 'Open Sans',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 19px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	.wb-stl-list3 a { font: normal normal 16px 'Open Sans',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 19px; }
+	.wb-stl-list3 a:hover { font: normal normal 16px 'Open Sans',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 19px; }
+	ul.wb-stl-list3 ul:not([class]), ul.wb-stl-list3 ol:not([class]), ol.wb-stl-list3 ul:not([class]), ol.wb-stl-list3 ol:not([class]) { font: normal normal 16px 'Open Sans',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 19px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	ul.wb-stl-list3 :not([class]) > li, ol.wb-stl-list3 :not([class]) > li { font: normal normal 16px 'Open Sans',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 19px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list3 li::before, ol.wb-stl-list3 li::before { display: none; }
+	.wb-stl-highlight { font: normal normal 24px Arial,Helvetica,sans-serif; font-size: 24px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 28px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-highlight a { font: normal normal 24px Arial,Helvetica,sans-serif; font-size: 24px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 28px; }
+	.wb-stl-highlight a:hover { font: normal normal 24px Arial,Helvetica,sans-serif; font-size: 24px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 28px; }
+	.wb-stl-special { font: normal normal 24px 'Capture it'; font-size: 24px; font-style: normal; font-weight: normal; color: #FFFB00; text-decoration: none; text-align: left; line-height: 28px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-special a { font: normal normal 24px 'Capture it'; font-size: 24px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 28px; }
+	.wb-stl-special a:hover { font: normal normal 24px 'Capture it'; font-size: 24px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 28px; }
+	.wb-stl-normal { font: normal normal 22px 'Roboto',Arial,sans-serif; font-size: 22px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 34px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-normal a { font: normal normal 22px 'Roboto',Arial,sans-serif; font-size: 22px; font-style: normal; font-weight: bold; color: #EF9C9C; text-decoration: none; text-align: left; line-height: 34px; }
+	.wb-stl-normal a:hover { font: normal normal 22px 'Roboto',Arial,sans-serif; font-size: 22px; font-style: normal; font-weight: bold; color: #DB4B4B; text-decoration: none; text-align: left; line-height: 34px; }
+	.wb-stl-pagetitle { font: normal bold 26px 'Roboto',Arial,sans-serif; font-size: 26px; font-style: normal; font-weight: bold; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 32px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-pagetitle a { font: normal bold 26px 'Roboto',Arial,sans-serif; font-size: 26px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 32px; }
+	.wb-stl-pagetitle a:hover { font: normal bold 26px 'Roboto',Arial,sans-serif; font-size: 26px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 32px; }
+	.wb-stl-subtitle { font: normal normal 32px 'Open Sans',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 32px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-subtitle a { font: normal normal 32px 'Open Sans',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 32px; }
+	.wb-stl-subtitle a:hover { font: normal normal 32px 'Open Sans',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 32px; }
+	.wb-stl-heading1 { font: normal bold 78px 'Cormorant Garamond',Arial,serif; font-size: 78px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 78px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-heading1 a { font: normal bold 78px 'Cormorant Garamond',Arial,serif; font-size: 78px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 78px; }
+	.wb-stl-heading1 a:hover { font: normal bold 78px 'Cormorant Garamond',Arial,serif; font-size: 78px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 78px; }
+	.wb-stl-heading2 { font: normal bold 44px 'Cormorant Garamond',Arial,serif; font-size: 44px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 44px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-heading2 a { font: normal bold 44px 'Cormorant Garamond',Arial,serif; font-size: 44px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 44px; }
+	.wb-stl-heading2 a:hover { font: normal bold 44px 'Cormorant Garamond',Arial,serif; font-size: 44px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 44px; }
+	.wb-stl-heading3 { font: normal bold 24px 'Cormorant Garamond',Arial,serif; font-size: 24px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 24px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-heading3 a { font: normal bold 24px 'Cormorant Garamond',Arial,serif; font-size: 24px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	.wb-stl-heading3 a:hover { font: normal bold 24px 'Cormorant Garamond',Arial,serif; font-size: 24px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	.wb-stl-footer { font: normal normal 16px 'Roboto',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-footer a { font: normal normal 16px 'Roboto',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	.wb-stl-footer a:hover { font: normal normal 16px 'Roboto',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	ul.wb-stl-list1 > li, ol.wb-stl-list1 > li { font: normal normal 10px 'Cormorant Garamond',Arial,serif; font-size: 10px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 11px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list1 > li::before, ol.wb-stl-list1 > li::before { display: none; }
+	ul.wb-stl-list2 > li, ol.wb-stl-list2 > li { font: normal normal 13px 'Open Sans',Arial,sans-serif; font-size: 13px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 14px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list2 > li::before, ol.wb-stl-list2 > li::before { display: none; }
+	ul.wb-stl-list3 > li, ol.wb-stl-list3 > li { font: normal normal 16px 'Open Sans',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 19px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list3 > li::before, ol.wb-stl-list3 > li::before { display: none; }
+}
+
+/* desktop */
+@media (min-width: 992px) {
+	.wb-stl-list1 { font: normal normal 12px 'Cormorant Garamond',Arial,serif; font-size: 12px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 14px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	.wb-stl-list1 a { font: normal normal 12px 'Cormorant Garamond',Arial,serif; font-size: 12px; font-style: normal; font-weight: normal; color: transparent; text-decoration: none; text-align: center; line-height: 14px; }
+	.wb-stl-list1 a:hover { font: normal normal 12px 'Cormorant Garamond',Arial,serif; font-size: 12px; font-style: normal; font-weight: normal; color: transparent; text-decoration: none; text-align: center; line-height: 14px; }
+	ul.wb-stl-list1 ul:not([class]), ul.wb-stl-list1 ol:not([class]), ol.wb-stl-list1 ul:not([class]), ol.wb-stl-list1 ol:not([class]) { font: normal normal 12px 'Cormorant Garamond',Arial,serif; font-size: 12px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 14px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	ul.wb-stl-list1 :not([class]) > li, ol.wb-stl-list1 :not([class]) > li { font: normal normal 12px 'Cormorant Garamond',Arial,serif; font-size: 12px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 14px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list1 li::before, ol.wb-stl-list1 li::before { display: none; }
+	.wb-stl-list2 { font: normal normal 16px 'Open Sans',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 18px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	.wb-stl-list2 a { font: normal normal 16px 'Open Sans',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 18px; }
+	.wb-stl-list2 a:hover { font: normal normal 16px 'Open Sans',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 18px; }
+	ul.wb-stl-list2 ul:not([class]), ul.wb-stl-list2 ol:not([class]), ol.wb-stl-list2 ul:not([class]), ol.wb-stl-list2 ol:not([class]) { font: normal normal 16px 'Open Sans',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 18px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	ul.wb-stl-list2 :not([class]) > li, ol.wb-stl-list2 :not([class]) > li { font: normal normal 16px 'Open Sans',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 18px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list2 li::before, ol.wb-stl-list2 li::before { display: none; }
+	.wb-stl-list3 { font: normal normal 20px 'Open Sans',Arial,sans-serif; font-size: 20px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 24px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	.wb-stl-list3 a { font: normal normal 20px 'Open Sans',Arial,sans-serif; font-size: 20px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	.wb-stl-list3 a:hover { font: normal normal 20px 'Open Sans',Arial,sans-serif; font-size: 20px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	ul.wb-stl-list3 ul:not([class]), ul.wb-stl-list3 ol:not([class]), ol.wb-stl-list3 ul:not([class]), ol.wb-stl-list3 ol:not([class]) { font: normal normal 20px 'Open Sans',Arial,sans-serif; font-size: 20px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 24px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	ul.wb-stl-list3 :not([class]) > li, ol.wb-stl-list3 :not([class]) > li { font: normal normal 20px 'Open Sans',Arial,sans-serif; font-size: 20px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 24px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list3 li::before, ol.wb-stl-list3 li::before { display: none; }
+	.wb-stl-highlight { font: normal normal 30px Arial,Helvetica,sans-serif; font-size: 30px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 35px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-highlight a { font: normal normal 30px Arial,Helvetica,sans-serif; font-size: 30px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 35px; }
+	.wb-stl-highlight a:hover { font: normal normal 30px Arial,Helvetica,sans-serif; font-size: 30px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 35px; }
+	.wb-stl-special { font: normal normal 30px 'Capture it'; font-size: 30px; font-style: normal; font-weight: normal; color: #FFFB00; text-decoration: none; text-align: left; line-height: 35px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-special a { font: normal normal 30px 'Capture it'; font-size: 30px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 35px; }
+	.wb-stl-special a:hover { font: normal normal 30px 'Capture it'; font-size: 30px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 35px; }
+	.wb-stl-normal { font: normal normal 26px 'Roboto',Arial,sans-serif; font-size: 26px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 38px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-normal a { font: normal normal 26px 'Roboto',Arial,sans-serif; font-size: 26px; font-style: normal; font-weight: bold; color: #EF9C9C; text-decoration: none; text-align: left; line-height: 38px; }
+	.wb-stl-normal a:hover { font: normal normal 26px 'Roboto',Arial,sans-serif; font-size: 26px; font-style: normal; font-weight: bold; color: #DB4B4B; text-decoration: none; text-align: left; line-height: 38px; }
+	.wb-stl-pagetitle { font: normal bold 32px 'Roboto',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: bold; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 40px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-pagetitle a { font: normal bold 32px 'Roboto',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 40px; }
+	.wb-stl-pagetitle a:hover { font: normal bold 32px 'Roboto',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 40px; }
+	.wb-stl-subtitle { font: normal normal 32px 'Open Sans',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 32px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-subtitle a { font: normal normal 32px 'Open Sans',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 32px; }
+	.wb-stl-subtitle a:hover { font: normal normal 32px 'Open Sans',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 32px; }
+	.wb-stl-heading1 { font: normal bold 78px 'Cormorant Garamond',Arial,serif; font-size: 78px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 78px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-heading1 a { font: normal bold 78px 'Cormorant Garamond',Arial,serif; font-size: 78px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 78px; }
+	.wb-stl-heading1 a:hover { font: normal bold 78px 'Cormorant Garamond',Arial,serif; font-size: 78px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 78px; }
+	.wb-stl-heading2 { font: normal bold 44px 'Cormorant Garamond',Arial,serif; font-size: 44px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 44px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-heading2 a { font: normal bold 44px 'Cormorant Garamond',Arial,serif; font-size: 44px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 44px; }
+	.wb-stl-heading2 a:hover { font: normal bold 44px 'Cormorant Garamond',Arial,serif; font-size: 44px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 44px; }
+	.wb-stl-heading3 { font: normal bold 24px 'Cormorant Garamond',Arial,serif; font-size: 24px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 24px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-heading3 a { font: normal bold 24px 'Cormorant Garamond',Arial,serif; font-size: 24px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	.wb-stl-heading3 a:hover { font: normal bold 24px 'Cormorant Garamond',Arial,serif; font-size: 24px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	.wb-stl-footer { font: normal normal 16px 'Roboto',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-footer a { font: normal normal 16px 'Roboto',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	.wb-stl-footer a:hover { font: normal normal 16px 'Roboto',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	ul.wb-stl-list1 > li, ol.wb-stl-list1 > li { font: normal normal 12px 'Cormorant Garamond',Arial,serif; font-size: 12px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 14px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list1 > li::before, ol.wb-stl-list1 > li::before { display: none; }
+	ul.wb-stl-list2 > li, ol.wb-stl-list2 > li { font: normal normal 16px 'Open Sans',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 18px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list2 > li::before, ol.wb-stl-list2 > li::before { display: none; }
+	ul.wb-stl-list3 > li, ol.wb-stl-list3 > li { font: normal normal 20px 'Open Sans',Arial,sans-serif; font-size: 20px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 24px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list3 > li::before, ol.wb-stl-list3 > li::before { display: none; }
+}
+
+/* tv */
+@media (min-width: 1200px) {
+	.wb-stl-list1 { font: normal normal 14px 'Cormorant Garamond',Arial,serif; font-size: 14px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 17px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	.wb-stl-list1 a { font: normal normal 14px 'Cormorant Garamond',Arial,serif; font-size: 14px; font-style: normal; font-weight: normal; color: transparent; text-decoration: none; text-align: center; line-height: 17px; }
+	.wb-stl-list1 a:hover { font: normal normal 14px 'Cormorant Garamond',Arial,serif; font-size: 14px; font-style: normal; font-weight: normal; color: transparent; text-decoration: none; text-align: center; line-height: 17px; }
+	ul.wb-stl-list1 ul:not([class]), ul.wb-stl-list1 ol:not([class]), ol.wb-stl-list1 ul:not([class]), ol.wb-stl-list1 ol:not([class]) { font: normal normal 14px 'Cormorant Garamond',Arial,serif; font-size: 14px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 17px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	ul.wb-stl-list1 :not([class]) > li, ol.wb-stl-list1 :not([class]) > li { font: normal normal 14px 'Cormorant Garamond',Arial,serif; font-size: 14px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 17px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list1 li::before, ol.wb-stl-list1 li::before { display: none; }
+	.wb-stl-list2 { font: normal normal 19px 'Open Sans',Arial,sans-serif; font-size: 19px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 22px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	.wb-stl-list2 a { font: normal normal 19px 'Open Sans',Arial,sans-serif; font-size: 19px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 22px; }
+	.wb-stl-list2 a:hover { font: normal normal 19px 'Open Sans',Arial,sans-serif; font-size: 19px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 22px; }
+	ul.wb-stl-list2 ul:not([class]), ul.wb-stl-list2 ol:not([class]), ol.wb-stl-list2 ul:not([class]), ol.wb-stl-list2 ol:not([class]) { font: normal normal 19px 'Open Sans',Arial,sans-serif; font-size: 19px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 22px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	ul.wb-stl-list2 :not([class]) > li, ol.wb-stl-list2 :not([class]) > li { font: normal normal 19px 'Open Sans',Arial,sans-serif; font-size: 19px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 22px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list2 li::before, ol.wb-stl-list2 li::before { display: none; }
+	.wb-stl-list3 { font: normal normal 24px 'Open Sans',Arial,sans-serif; font-size: 24px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 29px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	.wb-stl-list3 a { font: normal normal 24px 'Open Sans',Arial,sans-serif; font-size: 24px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 29px; }
+	.wb-stl-list3 a:hover { font: normal normal 24px 'Open Sans',Arial,sans-serif; font-size: 24px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 29px; }
+	ul.wb-stl-list3 ul:not([class]), ul.wb-stl-list3 ol:not([class]), ol.wb-stl-list3 ul:not([class]), ol.wb-stl-list3 ol:not([class]) { font: normal normal 24px 'Open Sans',Arial,sans-serif; font-size: 24px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 29px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 40px; text-transform: none; }
+	ul.wb-stl-list3 :not([class]) > li, ol.wb-stl-list3 :not([class]) > li { font: normal normal 24px 'Open Sans',Arial,sans-serif; font-size: 24px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 29px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list3 li::before, ol.wb-stl-list3 li::before { display: none; }
+	.wb-stl-highlight { font: normal normal 30px Arial,Helvetica,sans-serif; font-size: 30px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 35px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-highlight a { font: normal normal 30px Arial,Helvetica,sans-serif; font-size: 30px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 35px; }
+	.wb-stl-highlight a:hover { font: normal normal 30px Arial,Helvetica,sans-serif; font-size: 30px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 35px; }
+	.wb-stl-special { font: normal normal 30px 'Capture it'; font-size: 30px; font-style: normal; font-weight: normal; color: #FFFB00; text-decoration: none; text-align: left; line-height: 35px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-special a { font: normal normal 30px 'Capture it'; font-size: 30px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 35px; }
+	.wb-stl-special a:hover { font: normal normal 30px 'Capture it'; font-size: 30px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 35px; }
+	.wb-stl-normal { font: normal normal 32px 'Roboto',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 48px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-normal a { font: normal normal 32px 'Roboto',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: bold; color: #EF9C9C; text-decoration: none; text-align: left; line-height: 48px; }
+	.wb-stl-normal a:hover { font: normal normal 32px 'Roboto',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: bold; color: #DB4B4B; text-decoration: none; text-align: left; line-height: 48px; }
+	.wb-stl-pagetitle { font: normal bold 32px 'Roboto',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: bold; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 40px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-pagetitle a { font: normal bold 32px 'Roboto',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 40px; }
+	.wb-stl-pagetitle a:hover { font: normal bold 32px 'Roboto',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 40px; }
+	.wb-stl-subtitle { font: normal normal 32px 'Open Sans',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 32px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-subtitle a { font: normal normal 32px 'Open Sans',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 32px; }
+	.wb-stl-subtitle a:hover { font: normal normal 32px 'Open Sans',Arial,sans-serif; font-size: 32px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 32px; }
+	.wb-stl-heading1 { font: normal bold 78px 'Cormorant Garamond',Arial,serif; font-size: 78px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 78px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-heading1 a { font: normal bold 78px 'Cormorant Garamond',Arial,serif; font-size: 78px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 78px; }
+	.wb-stl-heading1 a:hover { font: normal bold 78px 'Cormorant Garamond',Arial,serif; font-size: 78px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 78px; }
+	.wb-stl-heading2 { font: normal bold 44px 'Cormorant Garamond',Arial,serif; font-size: 44px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 44px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-heading2 a { font: normal bold 44px 'Cormorant Garamond',Arial,serif; font-size: 44px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 44px; }
+	.wb-stl-heading2 a:hover { font: normal bold 44px 'Cormorant Garamond',Arial,serif; font-size: 44px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: center; line-height: 44px; }
+	.wb-stl-heading3 { font: normal bold 24px 'Cormorant Garamond',Arial,serif; font-size: 24px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 24px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-heading3 a { font: normal bold 24px 'Cormorant Garamond',Arial,serif; font-size: 24px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	.wb-stl-heading3 a:hover { font: normal bold 24px 'Cormorant Garamond',Arial,serif; font-size: 24px; font-style: normal; font-weight: bold; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	.wb-stl-footer { font: normal normal 16px 'Roboto',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-footer a { font: normal normal 16px 'Roboto',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	.wb-stl-footer a:hover { font: normal normal 16px 'Roboto',Arial,sans-serif; font-size: 16px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: left; line-height: 24px; }
+	ul.wb-stl-list1 > li, ol.wb-stl-list1 > li { font: normal normal 14px 'Cormorant Garamond',Arial,serif; font-size: 14px; font-style: normal; font-weight: normal; color: #000000; text-decoration: none; text-align: center; line-height: 17px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list1 > li::before, ol.wb-stl-list1 > li::before { display: none; }
+	ul.wb-stl-list2 > li, ol.wb-stl-list2 > li { font: normal normal 19px 'Open Sans',Arial,sans-serif; font-size: 19px; font-style: normal; font-weight: normal; color: #777777; text-decoration: none; text-align: left; line-height: 22px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list2 > li::before, ol.wb-stl-list2 > li::before { display: none; }
+	ul.wb-stl-list3 > li, ol.wb-stl-list3 > li { font: normal normal 24px 'Open Sans',Arial,sans-serif; font-size: 24px; font-style: normal; font-weight: normal; color: #FFFFFF; text-decoration: none; text-align: left; line-height: 29px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; list-style-type: unset; }
+	ul.wb-stl-list3 > li::before, ol.wb-stl-list3 > li::before { display: none; }
+}
+
+/* desktop_and_smaller */
+@media (max-width: 1199px) {
+}
+
+/* tablet_and_smaller */
+@media (max-width: 991px) {
+}
+
+/* phone_only */
+@media (max-width: 767px) {
+}
+
+/* tablet_only */
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/* desktop_only */
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+
+/* phone_last */
+
+
+/* touch_device */
+@media (any-pointer: coarse) {
+}
+
+/* mouse_device */
+@media (any-pointer: fine) and (min-width: 767px) {
+}
